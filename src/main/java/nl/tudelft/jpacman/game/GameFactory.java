@@ -23,7 +23,7 @@ public class GameFactory {
      *            The factory providing the player objects.
      */
     public GameFactory(PlayerFactory playerFactory) {
-        this.playerFactory = playerFactory;
+            this.playerFactory = playerFactory;
     }
 
     /**
